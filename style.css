@@ -22,13 +22,15 @@ html {
 .button {
 	padding: 0.25em 0.5em;
 	border: none;
-	border-radius: 2px;
-	border: 1px solid rgba(0,0,0,0.1);
+	border-radius: 1px;
+	border: 1px solid rgba(252, 49, 49, 0.1);
 	background: #7fcf80;
 	color: #fff;
 	text-decoration: none;
 	cursor: pointer;
 }
+
+.checkout {border: 4px solid rgba(0,0,0,0.1);}
 
 /* Site title and top navigation */
 .site-header {
